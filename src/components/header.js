@@ -13,8 +13,8 @@ function Header() {
                             <button className='mob btn btn-outline-light m-1'>Wedding Program|></button>
                             <button className='mob btn btn-outline-light m-1'>Seating Chart|></button> 
                             <button className='mob btn btn-outline-light m-1'>Dinner Menu|></button>
-                            <button className='mob btn btn-outline-light m-1'>Registry|></button>
-                            <button className='mob btn btn-outline-light m-1'>Share Your Photos with Us</button>
+                            <a href="http://www.zola.com/wedding/leematrimony/registry" className='mob btn btn-outline-light m-1'>Registry|></a>
+                            <button href="" className='mob btn btn-outline-light m-1'>Share Your Photos with Us</button>
                     </ul>
                 </div>
 
